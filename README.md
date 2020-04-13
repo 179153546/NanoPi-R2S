@@ -25,6 +25,5 @@ Fork 到自己的账号下，配置 `r2s-rk3328-config` 文件中的功能开关
 * [使用Github的Actions功能在线编译NanoPi-R1S固件（包含H5和H3）](https://totoro.site/index.php/archives/70/)
 * [skytotwo/NanoPi-R1S-Build-By-Actions](https://github.com/skytotwo/NanoPi-R1S-Build-By-Actions)
 * [klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt)
-* [yangliu/NanoPi-R2S](https://github.com/yangliu/NanoPi-R2S)
 * [maxming2333/NanoPi-R2S](https://github.com/maxming2333/NanoPi-R2S)
 * [soffchen/NanoPi-R2S](https://github.com/soffchen/NanoPi-R2S)
