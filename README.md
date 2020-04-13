@@ -1,7 +1,5 @@
 # 使用 Github Actions 在线编译 NanoPi-R2S 固件
 
-NanoPi R2S 购买链接: [https://s.click.taobao.com/rFvYQpv](https://s.click.taobao.com/rFvYQpv)
-
 ## 说明
 * IP: 192.168.2.1
 * 密码: password
@@ -29,3 +27,4 @@ Fork 到自己的账号下，配置 `r2s-rk3328-config` 文件中的功能开关
 * [klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt)
 * [yangliu/NanoPi-R2S](https://github.com/yangliu/NanoPi-R2S)
 * [maxming2333/NanoPi-R2S](https://github.com/maxming2333/NanoPi-R2S)
+* [soffchen/NanoPi-R2S](https://github.com/soffchen/NanoPi-R2S)
