@@ -153,6 +153,11 @@ jobs:
         run: |
           ln -s /usr/bin/upx-ucl friendlywrt-rk3328/friendlywrt/staging_dir/host/bin/upx
 
+      - name: Clean Feeds
+        run: |
+          cd friendlywrt-rk3328/friendlywrt
+          ./scripts/feeds clean -a
+          
       - name: Build OpenWrt
         run: |
           cd friendlywrt-rk3328
