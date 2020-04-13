@@ -126,7 +126,7 @@ jobs:
           cp ../xt_FULLCONENAT/ipv4-netfilter.Kconfig kernel/net/ipv4/netfilter/Kconfig
           cp ../xt_FULLCONENAT/netfilter.Kconfig kernel/net/netfilter/Kconfig
 
-          git clone https://github.com/openwrt/openwrt
+          #git clone https://github.com/openwrt/openwrt
           rm -rf friendlywrt/package/libs
           cp -r openwrt/package/libs friendlywrt/package/
           
