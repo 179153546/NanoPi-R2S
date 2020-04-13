@@ -1,5 +1,5 @@
 ## 20200413
-* add passwall 
+* add passwall
 
 ## 20200403
 * Kernel 5.4.29
