@@ -1,11 +1,11 @@
 ## 20200413
-* add passwall 
+* add passwall
 
 ## 20200403
 * Kernel 5.4.29
 
 ## 20200329
-* 移除 Flow Offloading 补丁 
+* 移除 Flow Offloading 补丁
 
 ## 20200326
 * 默认不开启 Full Cone NAT 与 Flow Offloading
